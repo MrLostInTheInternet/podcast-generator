@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast Generator Course Test"
 author: "MrLostInTheInternet"
 description: "Generates a feed for a podcast from a YAML file"
 runs:
